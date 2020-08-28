@@ -7,17 +7,17 @@ categories: Git
 
 Hello everyone,
 
-Today I am going to explain how to use git for getting the same workflow as well as you get with gitflow plugin that you probably have installed. I think is better for every gitflow users having an idea about how it works, because if you know the gitflow commands but you had forgotten the raw commands, are you sure you still remember what the workflow in git should look like? To avoid the bad feelings you could start to feel just now, continue reading please:
+Today I am going to explain how to use git for getting the same workflow as well as you get with the Gitflow plugin that you probably have installed. I think is better for every Gitflow user to have an idea about how it works, because if you know the Gitflow commands but you had forgotten the raw commands, are you sure you still remember what the workflow in git should look like? To avoid the bad feelings you could start to feel just now, continue reading please:
 
-First of all, open the terminal and go to your local repository folder. Once you are in, initialize repository:
+First of all, open the terminal and go to your local repository folder. Once you are in, initialize the repository:
 
-gitflow command:
+Gitflow command:
 
 {% highlight terminal %}
 git flow init
 {% endhighlight %}
 
-This command encourages users to create the base branches and select a prefix for all supporting branches. You could press enter for select all options as default name:
+This command encourages users to create base branches and selects a prefix for all supporting branches. You could press enter for select all options as default name:
 
 {% highlight terminal %}
 MacBook-Pro:gitflowexample ownuser$ git flow init
@@ -35,7 +35,6 @@ Version tag prefix? []
 MacBook-Pro:gitflowexample ownuser$
 {% endhighlight %}
 
-
 raw git:
 
 {% highlight terminal %}
@@ -48,21 +47,21 @@ As a result of git command, you are getting:
 Initialized empty Git repository in /Users/ownuser/example/.git/
 {% endhighlight %}
 
-Just one line? Really?. Believe me, you don't need any more. This command creates .git file, also, it creates master branch, which is the main branch and the branch on you are just now.
+Just one line? Really?. Believe me, you don't need it anymore. This command creates a .git file, also, it creates a master branch, which is the main branch and the branch on you are just now.
 
-But of course, both commands are not the same. If you want to recreate the gitflow workflow, you need to create the develop branch, which are both as well as:
+But of course, both commands are not the same. If you want to recreate the Gitflow workflow, you need to create the develop branch:
 
 {% highlight terminal %}
 git branch develop
 {% endhighlight %}
 
-or:
+or change from master to develop and select this last as the main branch:
 
 {% highlight terminal %}
 git checkout -b develop
 {% endhighlight %}
 
-with you changes from master to develop and selected this last as main branch. As a result of this:
+As a result of this:
 
 {% highlight terminal %}
 MacBook-Pro:examplerawgit ownuser$ git checkout -b develop
@@ -70,7 +69,8 @@ Switched to a new branch 'develop'
 MacBook-Pro:examplerawgit ownuser$ 
 {% endhighlight %}
 
-For the rest of branches you could write the next sentence (`git status` is only for check our current branch):
+For the rest of the branches you could write the next sentence (`git status` is only to check our current branch):
+
 {% highlight terminal %}
 MacBook-Pro:examplerawgit ownuser$ git status
 On branch develop
@@ -83,6 +83,7 @@ Switched to a new branch 'feature/feature_branch'
 {% endhighlight %}
 
 [to be continued...]
+
 
 <!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
