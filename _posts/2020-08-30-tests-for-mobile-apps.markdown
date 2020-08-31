@@ -4,7 +4,38 @@ title:  "Tests for mobile apps"
 date:   2020-08-30 20:04:00 +0200
 categories: Tests
 ---
+
+## Local unit tests (Located at module-name/src/test/java/.)
+
+1. JUnit test (when your tests have no Android framework dependencies)
+
+  1. runs on the local JVM
+
+  2. instrumented test that runs on a device
+
+
+
+2. test frameworks: Mockito (when you can mock the Android framework dependencies)
+  to test Android API calls in your local unit tests
+
+## Instrumented tests (Located at module-name/src/androidTest/java/.)
+
+3. Espresso
+  to exercise user interaction in your instrumented tests
+
+  1. run on a hardware device or emulator.
+
+  2.  generate Espresso tests automatically using Espresso Test Recorder.
+
+
+
+
+
+
+
 [Under construction]
+
+
 
 <!--You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
