@@ -6,6 +6,15 @@ categories: Scrum
 ---
 
 
+SCRUM Definition:
+
+SCRUM vs agile methods:
+
+Mobile teams enrolled into SCRUM development:
+
+Working with SCRUM:
+
+Conclusion:
 
 
 [under construction]
