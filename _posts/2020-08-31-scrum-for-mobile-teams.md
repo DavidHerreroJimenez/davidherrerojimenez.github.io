@@ -116,6 +116,13 @@ How it will build into a "Done" product Increment.
 Product Backlog items selected for this Sprint plus the plan for delivering them is called Sprint Backlog.
 ...
 #### Sprint Goal
+The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog 
+It provides guidance to the Development Team on why it is building the Increment
+created during the Sprint Planning meeting
+The selected Product Backlog items deliver one coherent function, which can be the Sprint Goal.
+If the work turns out to be different than the Development Team expected, they collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.
+
+#### Daily Scrum
 
 
 
