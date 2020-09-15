@@ -32,6 +32,14 @@ They are the Moses of Scrum, they explain to everyone the benefits of Scrum meth
 They service to Product Owner ensuring a good understanding of Product Backlog items and planning by Scrum Team and all around them, and helping Product Owner to increase the Product Backlog value. Concerning Development Team they service to coach them about Scrum organizations and events, and also, resolving progress obstacles. Moreover, Scrum Master service organization to understand and adopt Scrum methodology.
 
 ## What about Scrum events?
+At this point, you may suspicious about the title of this article. Do not worry my friend, Scrum events are when the remote condition of our team comes to play. Here we go!
+
+Either everyone is fully remote, or they prefer to work in a partial remote, our mobile team must communicate fluency minimizing misunderstandings, manage progress without Post-its, and meeting all together with reliability. It is not a post about how wonderful is some videoconference tool. Each team should decide their tools by themselves.
+
+Nevertheless, our archetypal mobile team will use an instant messaging tool, an online multi-user Scrum board, and a video conferencing tool.
+
+....TODO
+ 
 Scrum prescribe some events to create regularity and minimize meetings not defined. All events are time-boxed. Remaining events may end whenever the purpose of the event is achieved without waste time.
 
 ### The Sprint
