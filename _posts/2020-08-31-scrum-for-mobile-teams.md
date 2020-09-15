@@ -1,42 +1,31 @@
-Before start, a few considerations:
+## Before start, a few considerations:
 Scrum authors: Ken Schwaber and Jeff Sutherland.
 url: https://www.scrum.org/resources/scrum-guide
 To write this article I based on Scrum Guide v2017, but Scrum was born in the '90s. 
 
-In this article, I will try to focus on a mobile team who has to start a new challenging project. I chose Scrum because it is perfect for a small and adaptative team as a mobile team usually is. Having said that, let's start!
+In this article, I will try to focus on a mobile team who has to start a new challenging project. I chose Scrum because it is perfect for a small and adaptative team as a mobile team usually is, and also, I suppose that everyone will work from remote. Having said that, let's start!
 
 ## Scrum is the agile method, isn't it?
-So so, Scrum is a process framework to manage work, it is as famous as agile methods, but there are others as Kanban or Extreme Programming. However, Scrum is one of the most useful guides to get in agile on nowadays.
+So so, Scrum is a process framework to manage work, it is as famous as agile methods, but there are others as Kanban or Extreme Programming (XP). However, Scrum is one of the most useful methodologies to get in agile on nowadays.
 
-How does it work?
+## How does it work?
+Scrum is an empirical method based on iterations as well as agile methods does. Therefore, our remote mobile team will take decisions only based on their acquired knowledge, and they will control risk thanks to short-term iterations.
+Scrum has as fundamental principles the following ideas:
+Transparency: As a common understanding and base to be successful with Scrum.
+Inspection: Review periodically to do not lose your way.
+Adaption: Always as soon as possible, be water, my friend. 
 
-decisions based on what is known.
-working iteratively to optimize and control risk
-transparency, inspection and adaption
-Transparency: A common understanding of what is being seen.
-Inspection: Frequent inspection of artefacts by an inspector to detect deviations.
-Adaptation: As soon as possible deviation becoming, adjustment is mandatory.
 ## How should we organise ourselves?
+Suppose you are into our fully remote mobile team, this it will the Scrum Team. Also, suppose, for example, you are a developer who takes part in the Development Team, from home. In this case, you will in Scrum Team, because you are inside a sub-group named "Development Team", in which you and your colleagues expect to create a both IOS and Android mobile apps, required by a new client for Podcasting. Well, this following is the way that you should organize according to Scrum guides:
+
 ### The Scrum Team (small group of work)
-Members:
-Product Owner
-Development Team
-Scrum Master
-Self-organizing: Teams choose how best to accomplish their work
-cross-functional: Teams have all competencies needed to accomplish the work.
-Strengths: flexible, creative, productive.
+It is a small group of people self-organized who are enough cross-functional to get the goal. Everyone who will be taking part in product development, there are inside this team: Workers and product leaders, but not yet the stakeholders. They will be organized by:
+
 #### The Product Owner (1 person)
-Responsibilities:
-Maximizing value of the product
-Managing the Product Backlog:
-Expressing Product Backlog items so clear
-Ordering items to best achieve goals
-Optimizing Development Team work value
-Ensuring visibility, transparency and clarity and what work is the next of Product Backlog to all.
-Ensuring the Development Team understands items.
-The organization must respect his or her decisions.
-Product Owner's decisions can't change the set of requirements of the Development Team.
+The Product Owner is both responsible and politician. They are the link from Scrum Team and Stakeholders, a person who works to get the maximum value of the product from the Development Team and ensures the transparency of the process for both Scrum Team and Stakeholders, at the same time that the organizations respect its decisions. They are the only Product Backlog manager and their accountable, they must guarantee the best looking and best understanding of Product Backlog list items.
+
 #### The Development Team (small enough)
+
 People who work to create a project
 Self-organizing, self-managing
 Turn Product Backlog into Increments
