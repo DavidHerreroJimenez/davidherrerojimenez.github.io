@@ -1,4 +1,4 @@
-## Before start, a few considerations:
+Before start, a few considerations:
 Scrum authors: Ken Schwaber and Jeff Sutherland.
 url: https://www.scrum.org/resources/scrum-guide
 To write this article I based on Scrum Guide v2017, but Scrum was born in the '90s. 
@@ -25,15 +25,8 @@ It is a small group of people self-organized who are enough cross-functional to 
 The Product Owner is both responsible and politician. They are the link from Scrum Team and Stakeholders, a person who works to get the maximum value of the product from the Development Team and ensures the transparency of the process for both Scrum Team and Stakeholders, at the same time that the organizations respect its decisions. They are the only Product Backlog manager and their accountable, they must guarantee the best looking and best understanding of Product Backlog list items.
 
 #### The Development Team (small enough)
+They are the Ant Workers! In this group, I mean, your group, you remember, aren't you? people work to create the new Podcasts apps iteratively, increment the product each Sprint. They work organized by themselves and self-managing and all they are whole accountability to get the Sprint goal. Furthermore, they must estimate the tasks to get the aim and no one can replace them for this task. Scrum determines no sub-groups inside Development Team, however, in a mobile team who work in an app for more than one platform, typically will have at least an Android developer, an IOS developer, a Backend developer and a designer. Some of them also have a QA tester.
 
-People who work to create a project
-Self-organizing, self-managing
-Turn Product Backlog into Increments
-cross-functional --> all skills necessaries to create a product increment
-no titles
-no sub-teams
-accountability belongs to the Development Team as a whole
-Product Owner and Scrum Master roles are not included in this count unless they are also executing the work of the Sprint Backlog
 #### The Scrum Master
 Promoting and supporting Scrum
 Helping everyone understand Scrum theory, practices, rules and values
