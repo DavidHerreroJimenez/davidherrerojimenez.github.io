@@ -28,30 +28,9 @@ The Product Owner is both responsible and politician. They are the link from Scr
 They are the Ant Workers! In this group, I mean, your group, you remember, aren't you? people work to create the new Podcasts apps iteratively, increment the product each Sprint. They work organized by themselves and self-managing and all they are whole accountability to get the Sprint goal. Furthermore, they must estimate the tasks to get the aim and no one can replace them for this task. Scrum determines no sub-groups inside Development Team, however, in a mobile team who work in an app for more than one platform, typically will have at least an Android developer, an IOS developer, a Backend developer and a designer. Some of them also have a QA tester.
 
 #### The Scrum Master
-Promoting and supporting Scrum
-Helping everyone understand Scrum theory, practices, rules and values
-Helping those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren't.
-Scrum Master service:
-To the Product Owner:
-Ensuring everyone undertand the goals, scope and product domain.
-Finding techniques for effective Product Backlog management
-Helping Scrum team understand Product Backlog items
-Understanding product planning
-Ensuring Product Owner knows how to arrange the Product Backlog to maximize value
-Understanding and practicing agility
-Facilitating Scrum events
-To the Development Team:
-Coaching in self-organization and cross-functionality
-Helping to create high-value products
-Removing impediments to the Development Team's progress
-Facilitating Scrum events
-Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
-To the Organization:
-Leading and coaching Scrum adoption
-Planning Scrum implementations
-Helping employees and stackeholders understand Scrum
-Causing change that increases the productivity
-Working with other Scrum Masters to increase the effectiveness
+They are the Moses of Scrum, they explain to everyone the benefits of Scrum methodology, guide the Scrum Team across the creational process until getting the objective, and protect the Scrum Team from unhelpful interactions. 
+They service to Product Owner ensuring a good understanding of Product Backlog items and planning by Scrum Team and all around them, and helping Product Owner to increase the Product Backlog value. Concerning Development Team they service to coach them about Scrum organizations and events, and also, resolving progress obstacles. Moreover, Scrum Master service organization to understand and adopt Scrum methodology.
+
 ## What about Scrum events?
 Scrum prescribe some events to create regularity and minimize meetings not defined. All events are time-boxed. Remaining events may end whenever the purpose of the event is achieved without waste time.
 
