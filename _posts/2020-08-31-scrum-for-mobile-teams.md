@@ -1,4 +1,4 @@
-Before start, a few considerations:
+## Before start, a few considerations:
 Scrum authors: Ken Schwaber and Jeff Sutherland.
 url: https://www.scrum.org/resources/scrum-guide
 To write this article I based on Scrum Guide v2017, but Scrum was born in the '90s. 
@@ -48,7 +48,11 @@ The Sprints are the reason way Scrum minimize risks and, therefore, costs. The n
 #### Sprint Planning
 All Scrum Team will have a meeting to define a Sprint Goal and develop a plan to achieve this goal. For this meeting, the Scrum guide allow 8 hours as a maximum per month. Instead, our mobile team has 2-week Sprints that start and finalizing on Friday, and we assumed Fridays as a half working day, so our Scrum team will have 1 hour as a maximum per Sprint. Scrum Master will look after the Scrum Team respect this time as well as the aim of this meeting.  During the Sprint Planning, it is time for Development Team to select the next tasks to do from Product Backlog, always close to Product Owner who leads the team regarding the best choices to aim to next Sprint Goal.
  
+******* TODO
 #### Sprint Goal
+Each project has its goals. The Sprint Goal represents the imminent achieve for Development Team, the Sprint Goal must represent a done.
+
+...TODO()...
 The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog 
 It provides guidance to the Development Team on why it is building the Increment
 created during the Sprint Planning meeting
