@@ -34,40 +34,17 @@ They service to Product Owner ensuring a good understanding of Product Backlog i
 ## What about Scrum events?
 At this point, you may suspicious about the title of this article. Do not worry my friend, Scrum events are when the remote condition of our team comes to play. Here we go!
 
-Either everyone is fully remote, or they prefer to work in a partial remote, our mobile team must communicate fluency minimizing misunderstandings, manage progress without Post-its, and meeting all together with reliability. It is not a post about how wonderful is some videoconference tool. Each team should decide their tools by themselves.
+Either everyone is fully remote, or they prefer to work in a partial remote, our mobile team must communicate fluency minimizing misunderstandings, manage progress without Post-its, and meeting all together with reliability. It is not a post about how wonderful is some videoconference tool. Each team should decide their tools by themselves. Nevertheless, our archetypal mobile team will use an instant messaging tool, an online multi-user Scrum board, and a video conferencing tool. First, an instant messaging for fast communications, so informal, as well as each member could communicate each other to greet in the morning, say you are going to make a coffee, or simply ask anything quickly. Secondly,  multi-user Scrum board as a substitute a physic board. This is a bit personal because there are other methods to implement Scrum no so similar to kanban, instead, this is our preference for this example. And thirdly, a good tool for meetings, basically they need some tool that allows them to do the meeting all at once, minimizing sound problems or video freezing. That said, common with Scrum events. 
 
-Nevertheless, our archetypal mobile team will use an instant messaging tool, an online multi-user Scrum board, and a video conferencing tool.
-
-....TODO
- 
-Scrum prescribe some events to create regularity and minimize meetings not defined. All events are time-boxed. Remaining events may end whenever the purpose of the event is achieved without waste time.
+Scrum defines 5 different events to manage the empirical control minimizing risk and waste of time in meetings. The Scrum events allow the Scrum Team to be transparent, inspect periodically and adopt just in time. The Scrum events are as follows:
 
 ### The Sprint
-The main characteristic of Scrum
-time-boxed: 1 month or less
-time during a product Increment is created ("Done")
-Contain and consist:
-Sprint Planning
-Daily Scrum
-Developmnet work
-Sprint Review
-Sprint Restrospective
-During the Spring:
-No changes that would endanger the Sprint Goal
-Quality goals do not drecrease
-Scope may be clarified and re-negotated between Product Owner and Development Teams as mor is learned
-Each Spring may be considered a project
-Used to accomplish something
-Each Sprint has a goal, a design and flexible plan
-Spring enable predictability by ensuring inspection and adaptation of progress toward a Sprint Goal at least every calendar month
-Sprint limit risk to one month of cost
-#### Canceling a Sprint
-Can be cancelled before time-box is over
-Only the Product Owner has the authority
-Would be cancelled if the Sprint Goal becomes obsolete
-When Sprint is cancelled, completed and Done Product Backlog items are reviewed. If the work is potentially releasable, the Product Owner typically accepts it.
-Incomplete Product Backlog items are re-estimated and put back on the Product Backlog.
-Sprint cancellations consume resources
+The most important event of Scrum, in which the other events are into. The scrum guide determines a maximum time of 1 month for each Sprint, but in our case, our team have decided that it will be nine days, from Friday to Thursday. Starting on Friday is important because Scrum requires to invest some hours per Sprint to meetings, and I think that the best day for meetings is Friday, in which companies usually take as a part-time day.   
+
+During the Sprint the Development team will work on an increment of the product which they need to be able to finish in this time, also, the other members of Scrum Time will work to ensure the Sprint goal. For each Sprint is mandatory that nobody does nothing to endanger the Sprint Goal, of course, if it does something wrong with the scope, both Team Development and Product Owner must find a solution. If any reason deprecates the Sprint Goal, this Sprint could be cancelled but only by Product Owner.
+
+The Sprints are the reason way Scrum minimize risks and , therefore, costs. The next events are considered to accomplish each Sprints aim and assurance not going wrong:
+
 #### Sprint Planning
 Scrum Team must create a plan which indicates the work to be permormed during the Sprint.
 time-boxed: max 8 hours for a 1 month Sprint
