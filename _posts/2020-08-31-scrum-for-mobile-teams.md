@@ -43,24 +43,11 @@ The most important event of Scrum, in which the other events are into. The scrum
 
 During the Sprint the Development team will work on an increment of the product which they need to be able to finish in this time, also, the other members of Scrum Time will work to ensure the Sprint goal. For each Sprint is mandatory that nobody does nothing to endanger the Sprint Goal, of course, if it does something wrong with the scope, both Team Development and Product Owner must find a solution. If any reason deprecates the Sprint Goal, this Sprint could be cancelled but only by Product Owner.
 
-The Sprints are the reason way Scrum minimize risks and , therefore, costs. The next events are considered to accomplish each Sprints aim and assurance not going wrong:
+The Sprints are the reason way Scrum minimize risks and, therefore, costs. The next events are considered to accomplish each Sprints aim and assurance not going wrong:
 
 #### Sprint Planning
-Scrum Team must create a plan which indicates the work to be permormed during the Sprint.
-time-boxed: max 8 hours for a 1 month Sprint
-Scrum Master is responsible 
-Scrum Master teach Scrum Team to keep it within time-box
-Answer:
-What can be done this Sprint?
-Development Team forecast the functionality that will develop during the Sprint.
-Product Owner discuss the objective and the Product Backlogk items to achieve the Sprint Goal
-Scrum Team collaborates to understand the work of the Sprint.
-Only Development Team decide what Product Backlog items select from to Sprint.
-The Sprint Goal is crafted by Scrum Team during Sprint Planning.
-How will the work needed to deliver the Increment be achieved?
-How it will build into a "Done" product Increment.
-Product Backlog items selected for this Sprint plus the plan for delivering them is called Sprint Backlog.
-...
+All Scrum Team will have a meeting to define a Sprint Goal and develop a plan to achieve this goal. For this meeting, the Scrum guide allow 8 hours as a maximum per month. Instead, our mobile team has 2-week Sprints that start and finalizing on Friday, and we assumed Fridays as a half working day, so our Scrum team will have 1 hour as a maximum per Sprint. Scrum Master will look after the Scrum Team respect this time as well as the aim of this meeting.  During the Sprint Planning, it is time for Development Team to select the next tasks to do from Product Backlog, always close to Product Owner who leads the team regarding the best choices to aim to next Sprint Goal.
+ 
 #### Sprint Goal
 The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog 
 It provides guidance to the Development Team on why it is building the Increment
