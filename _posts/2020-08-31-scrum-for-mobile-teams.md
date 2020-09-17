@@ -80,14 +80,11 @@ The increment is the result of the Development Team working hours throughout the
 Scrum Guide defines as a Done, each finished increment, but there is a task for every team to set up the own "Done" definition.
 
 ## Conclusions
-### What Scrum looks so nice for mobile teams?
+### What Scrum looks so nice for remote mobile teams?
 Scrum minimizes the risk in a way that it pushes the team to work iteratively, just as a chef tastes the food every few minutes to check if its salty enough.
-It is based on three principles: transparency, inspection, and adaptation:
-Firstly, each team member should be honest with their managers and colleges, because it guarantees to react in time, moreover, all need to agree among them specific words in which meaning is a bit tricky, you know, to do, in progress, done...
-Secondly, teams require to check the Scrum artefacts and the current progress. Checking every day should be a must, but each morning, together, it could be terrific!
-Finally, when teams catch something wrong, they need to be able to do changes as soon as possible to redirect the project towards a goal. 
 
-Consequently, a true Scrum team, it will be composed of a mobile team, managers, and stakeholders, and all of them should be focused on the goal, committed with purpose and Scrum manners, and respectful for each other. So nice! The dream team...
+It is based on three principles: transparency, inspection, and adaptation, which allow every team to do the work in peace with stakeholders and improving their workflow as they acquire knowledge about themselves.
 
+Moreover, Scrum was thought initially for teams working on the same place, but today, after the last events and the outstanding internet connections, we need to start to believe in people, and their responsibility to do a good work remotely. For this reason, Scrum with some tools can be adapted to remote work, and working great!
 
-
+To sum up, a true Scrum team, it will be composed of a mobile team, managers, and stakeholders, and all of them should be focused on the goal, committed with purpose and Scrum manners, and respectful for each other. So nice! The dream team...
