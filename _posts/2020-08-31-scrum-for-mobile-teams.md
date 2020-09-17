@@ -47,17 +47,9 @@ The Sprints are the reason way Scrum minimize risks and, therefore, costs. The n
 
 #### Sprint Planning
 All Scrum Team will have a meeting to define a Sprint Goal and develop a plan to achieve this goal. For this meeting, the Scrum guide allow 8 hours as a maximum per month. Instead, our mobile team has 2-week Sprints that start and finalizing on Friday, and we assumed Fridays as a half working day, so our Scrum team will have 1 hour as a maximum per Sprint. Scrum Master will look after the Scrum Team respect this time as well as the aim of this meeting.  During the Sprint Planning, it is time for Development Team to select the next tasks to do from Product Backlog, always close to Product Owner who leads the team regarding the best choices to aim to next Sprint Goal.
- 
-******* TODO
-#### Sprint Goal
-Each project has its goals. The Sprint Goal represents the imminent achieve for Development Team, the Sprint Goal must represent a done.
 
-...TODO()...
-The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog 
-It provides guidance to the Development Team on why it is building the Increment
-created during the Sprint Planning meeting
-The selected Product Backlog items deliver one coherent function, which can be the Sprint Goal.
-If the work turns out to be different than the Development Team expected, they collaborate with the Product Owner to negotiate the scope of Sprint Backlog within the Sprint.
+#### Sprint Goal
+Each project has its goals. The Sprint Goal represents the happy end for Development Team, who will be working hard throughout the Sprint to achieve the planned increment. It is defined during Sprint Planning.
 
 #### Daily Scrum
 
