@@ -52,9 +52,15 @@ All Scrum Team will have a meeting to define a Sprint Goal and develop a plan to
 Each project has its goals. The Sprint Goal represents the happy end for Development Team, who will be working hard throughout the Sprint to achieve the planned increment. It is defined during Sprint Planning.
 
 #### Daily Scrum
-It is a 15-minute meeting to plan the daily work. It is for Development Team whereas  Scrum Master ensures its carry out.  Better if is the first task every morning at the same time, just before starting to work with a good coffee.
+It is a 15-minute meeting to plan the daily work and check the Sprint progress. It is for Development Team whereas  Scrum Master ensures its carry out.  Better if is the first task every morning at the same time, just before starting to work with a good coffee.
 
+#### Sprint Review
+It is a meeting in which the assistants are composed by Scrum Team and the Stakeholders invited by the Product Owner. The objective is reviewing the milestones achieved, issues and solutions found. Furthermore, this meeting will be useful to start to prepare the next Sprint Planning and compare progress with the estimated delivery date. After Sprint review the Background Backlog is updated. Scrum guide determines 4 hours per 1-month  Sprint. In our case, there is max 30 min.
 
+#### Sprint Retrospective
+
+Which elements we should use to work as a Scrum team?
+## Scrum Artifacts
 
 
 
