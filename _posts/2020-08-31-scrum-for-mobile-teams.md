@@ -58,6 +58,7 @@ It is a 15-minute meeting to plan the daily work and check the Sprint progress. 
 It is a meeting in which the assistants are composed by Scrum Team and the Stakeholders invited by the Product Owner. The objective is reviewing the milestones achieved, issues and solutions found. Furthermore, this meeting will be useful to start to prepare the next Sprint Planning and compare progress with the estimated delivery date. After Sprint review the Background Backlog is updated. Scrum guide determines 4 hours per 1-month  Sprint. In our case, there is max 30 min.
 
 #### Sprint Retrospective
+After the Sprint Review, Sprint retrospective will be useful for the Scrum Team to improve their workflow from acquired knowledge in the last Sprint to next Sprint. Scrum Guide determines max 3 hours per Sprint month. Here, our time will spend 30 minutes as well as Sprint Review, and Scrum Master is responsible for this meeting.
 
 Which elements we should use to work as a Scrum team?
 ## Scrum Artifacts
