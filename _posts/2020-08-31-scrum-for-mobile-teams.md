@@ -47,11 +47,13 @@ The Sprints are the reason way Scrum minimize risks and, therefore, costs. The n
 
 #### Sprint Planning
 All Scrum Team will have a meeting to define a Sprint Goal and develop a plan to achieve this goal. For this meeting, the Scrum guide allow 8 hours as a maximum per month. Instead, our mobile team has 2-week Sprints that start and finalizing on Friday, and we assumed Fridays as a half working day, so our Scrum team will have 1 hour as a maximum per Sprint. Scrum Master will look after the Scrum Team respect this time as well as the aim of this meeting.  During the Sprint Planning, it is time for Development Team to select the next tasks to do from Product Backlog, always close to Product Owner who leads the team regarding the best choices to aim to next Sprint Goal.
-
+ 
 #### Sprint Goal
 Each project has its goals. The Sprint Goal represents the happy end for Development Team, who will be working hard throughout the Sprint to achieve the planned increment. It is defined during Sprint Planning.
 
 #### Daily Scrum
+It is a 15-minute meeting to plan the daily work. It is for Development Team whereas  Scrum Master ensures its carry out.  Better if is the first task every morning at the same time, just before starting to work with a good coffee.
+
 
 
 
