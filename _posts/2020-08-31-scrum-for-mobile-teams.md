@@ -60,8 +60,21 @@ It is a meeting in which the assistants are composed by Scrum Team and the Stake
 #### Sprint Retrospective
 After the Sprint Review, Sprint retrospective will be useful for the Scrum Team to improve their workflow from acquired knowledge in the last Sprint to next Sprint. Scrum Guide determines max 3 hours per Sprint month. Here, our time will spend 30 minutes as well as Sprint Review, and Scrum Master is responsible for this meeting.
 
-Which elements we should use to work as a Scrum team?
-## Scrum Artifacts
+
+## At last, How much time will spend our mobile team in video calls?
+As a result, we said before, our mobile team will spend as a maximum 4 hours and 15 minutes each Sprint, pretty well, don't you think so? Remember that our mobile team decided a 9-days Sprint plus 1 day for meetings.
+
+## Our team has their organization, the events to planning the work during each iteration. Finally, we are going to talk about the elements to manage the required tasks to achieve the objective. Go on!
+
+### Scrum Artifacts
+#### Product Backlog
+#### Sprint Backlog
+#### Increment
+
+## Definition of "Done"
+
+## Conclusions
+
 
 
 
