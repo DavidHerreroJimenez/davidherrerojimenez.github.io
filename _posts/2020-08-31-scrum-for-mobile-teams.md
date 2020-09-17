@@ -1,14 +1,25 @@
+---
+layout: post
+title:  "Scrum for Remote Mobile Teams"
+date:   2020-09-17 12:54:00 +0200
+categories: Scrum
+---
+
 ## Before start, a few considerations:
-Scrum authors: Ken Schwaber and Jeff Sutherland.
-url: https://www.scrum.org/resources/scrum-guide
-To write this article I based on Scrum Guide v2017, but Scrum was born in the '90s. 
+To write this article I based on Scrum Guide v2017, but Scrum was born in the '90s: 
+* Scrum authors: Ken Schwaber and Jeff Sutherland.
+* url: [Scrum guide](https://www.scrum.org/resources/scrum-guide)
 
-In this article, I will try to focus on a mobile team who has to start a new challenging project. I chose Scrum because it is perfect for a small and adaptative team as a mobile team usually is, and also, I suppose that everyone will work from remote. Having said that, let's start!
 
-## Scrum is the agile method, isn't it?
+
+**_In this article, I will try to focus on a mobile team who has to start a new challenging project. I chose Scrum because it is perfect for a small and adaptative team as a mobile team usually is, and also, I suppose that everyone will work from remote. Having said that, let's start!_**
+
+
+
+## Scrum is the agile method, isn't it?
 So so, Scrum is a process framework to manage work, it is as famous as agile methods, but there are others as Kanban or Extreme Programming (XP). However, Scrum is one of the most useful methodologies to get in agile on nowadays.
 
-## How does it work?
+## How does it work?
 Scrum is an empirical method based on iterations as well as agile methods does. Therefore, our remote mobile team will take decisions only based on their acquired knowledge, and they will control risk thanks to short-term iterations.
 Scrum has as fundamental principles the following ideas:
 Transparency: As a common understanding and base to be successful with Scrum.
@@ -79,8 +90,7 @@ The increment is the result of the Development Team working hours throughout the
 ## Definition of "Done"
 Scrum Guide defines as a Done, each finished increment, but there is a task for every team to set up the own "Done" definition.
 
-## Conclusions
-### What Scrum looks so nice for remote mobile teams?
+## Conclusion. What Scrum looks so nice for remote mobile teams?
 Scrum minimizes the risk in a way that it pushes the team to work iteratively, just as a chef tastes the food every few minutes to check if its salty enough.
 
 It is based on three principles: transparency, inspection, and adaptation, which allow every team to do the work in peace with stakeholders and improving their workflow as they acquire knowledge about themselves.
