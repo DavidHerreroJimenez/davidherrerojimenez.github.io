@@ -64,23 +64,23 @@ After the Sprint Review, Sprint retrospective will be useful for the Scrum Team 
 ## At last, How much time will spend our mobile team in video calls?
 As a result, we said before, our mobile team will spend as a maximum 4 hours and 15 minutes each Sprint, pretty well, don't you think so? Remember that our mobile team decided a 9-days Sprint plus 1 day for meetings.
 
-## Our team has their organization, the events to planning the work during each iteration. Finally, we are going to talk about the elements to manage the required tasks to achieve the objective. Go on!
+## Scrum Artifacts
+ Our team has organization, the events to planning the work during each iteration. Finally, we are going to talk about the Scrum Artifacts, which are some elements to manage the required tasks to achieve the objective with transparency. Go on!
 
-### Scrum Artifacts
 #### Product Backlog
+The main task list. Product Backlog is when all task and requirements are and the base for the development with Scrum methodology. The Product Owner is the maintainer. It is the first list to create before starting the project.
+
 #### Sprint Backlog
+As a result of Sprint Planning, the Sprint Backlog is a list when the team stack the tasks to do throughout the Sprint. 
+
 #### Increment
+The increment is the result of the Development Team working hours throughout the Sprint, it is new functionality for our mobile apps, which contribute to up the value of the project.
 
 ## Definition of "Done"
+Scrum Guide defines as a Done, each finished increment, but there is a task for every team to set up the own "Done" definition.
 
 ## Conclusions
-
-
-
-
-
-
-## What Scrum looks so nice for mobile teams?
+### What Scrum looks so nice for mobile teams?
 Scrum minimizes the risk in a way that it pushes the team to work iteratively, just as a chef tastes the food every few minutes to check if its salty enough.
 It is based on three principles: transparency, inspection, and adaptation:
 Firstly, each team member should be honest with their managers and colleges, because it guarantees to react in time, moreover, all need to agree among them specific words in which meaning is a bit tricky, you know, to do, in progress, done...
